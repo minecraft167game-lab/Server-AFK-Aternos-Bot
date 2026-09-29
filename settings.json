@@ -8,8 +8,8 @@
   "server": {
     "ip": "TheMinecraftLarp.aternos.me",
     "port": 53034,
-    "version": "",
-    "try-creative": false
+    "version": "1.26.3",
+  "try-creative": false
   },
   "position": {
     "enabled": true,
